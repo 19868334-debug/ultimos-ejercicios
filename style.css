@@ -1,28 +1,33 @@
-body{
+body {
     background-color: darkcyan;
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
-
 }
-.contendor{
+
+.contenedor {
     margin-top: 80px;
 }
+
 h2 {
     font-size: 50px;
     color: deepskyblue;
 }
-button{
+
+button {
     padding: 12px 20px;
     margin: 5px;
     border: none;
     border-radius: 5px;
     cursor: pointer;
+    font-weight: bold; 
 }
-#sumar{
+
+#sumar {
     background-color: blue;
-    color: blueviolet;
+    color: white; 
 }
-#reiniciar{
+
+#reiniciar {
     background-color: black;
     color: crimson;
 }
